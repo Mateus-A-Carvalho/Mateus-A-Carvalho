@@ -10,6 +10,7 @@
   
   ![Mateus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus-A-Carvalho&show_icons=true&theme=synthwave)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-A-Carvalho&layout=donut)
+  [![Mateus Carvalho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateus-A-Carvalho&bg_color=0814bf&color=e4dde4&line=e0ce06&point=db0f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## My Skills: 
